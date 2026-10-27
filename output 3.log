@@ -1,0 +1,16 @@
+Welcome to the Simple Interest Calculator!
+Enter your name: Zaria 
+Enter the principal amount: $1000
+Enter the annual interest rate (%): 5
+Enter the time in years: 2
+--- Calculation Results ---
+Hello, Zaria!
+Principal: $1,000.00
+Interest Rate: 5.00%
+Time: 2 years
+Simple Interest: $100.00
+In a few words, describe the calculation: Simply interest and interest 
+--- Text Analysis ---
+Cleaned description: Simply interest and interest
+Number of words: 4
+Occurrences of 'interest': 2
